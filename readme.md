@@ -1,5 +1,7 @@
 # Progressive Web Apps Camp
 
+### About this Event
+
 **Overview:** Progressive Web Apps Camp (PWA Camp) is one of a series of "Study Camps" designed to jumpstart deeper understanding of a technology through a combination of talks and hands-on codelabs in a community setting. Think of this as "base camp" for an expedition that can then be continued through regular online interactions and in-person events where you can progressively gain depth of experience through collective sharing and discussion.
 
 PWA Camp 2017 is structured in three stages to provide a 360-degree view of the space. First, we begin with the Principles session where we cover the core concepts and tools associated with PWA development. Next we have the Programming session with instructor-led tutorials on developing PWA on specific platforms or frameworks followed by a self-guided codelabs segment where you will learn to build & deploy a PWA on your own. Finally, we have the Practices session where we hear from experts about best practices for deploying PWA in real world and production environments.
