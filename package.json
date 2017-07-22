@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
+    "deploy": "ng build -sm -ec -bh /repo name/ & ngh --no-silent",
     "ng": "ng",
     "start": "ng serve",
     "start:pwa": "npm run build && cd dist && http-server",
@@ -35,6 +36,7 @@
     "@types/jasmine": "2.5.45",
     "@types/node": "~6.0.60",
     "codelyzer": "~3.0.1",
+    "gh-pages": "^1.0.0",
     "http-server": "^0.10.0",
     "jasmine-core": "~2.6.2",
     "jasmine-spec-reporter": "~4.1.0",
