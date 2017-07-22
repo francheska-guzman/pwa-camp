@@ -12,6 +12,5 @@ PWA Camp 2017 is structured in three stages to provide a 360-degree view of the 
 
 **Why It's Important:** The mobile web is increasingly important for connecting users to information anywhere, from any device. PWA allows web apps to be architected to have better performance across diverse platforms and under resource constraints (e.g., intermittent connectivity) by embodying the core principles of 'progressive enhancement'. PWAs also help web developers craft applications that are more comparable to their native counterparts, making them easier (and more familiar) to consume by mobile users.
 
-[PWA Camp 2017](https://pwacamp2017.splashthat.com/)
-
-[PWA Agenda](https://www.meetup.com/gdgnyc/events/240538942/)
+* [PWA Camp 2017](https://pwacamp2017.splashthat.com/)
+* [GDG Meetup Page](https://www.meetup.com/gdgnyc/events/240538942/)
