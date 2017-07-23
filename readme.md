@@ -13,3 +13,10 @@ PWA Camp 2017 is structured in three stages to provide a 360-degree view of the 
 **What You'll Take Away:** Attendees can expect to get a 360 view of PWA from understanding core concepts to getting hands-on training (with codelabs) and finally getting industry insights on usage in real-world environments
 
 **Why It's Important:** The mobile web is increasingly important for connecting users to information anywhere, from any device. PWA allows web apps to be architected to have better performance across diverse platforms and under resource constraints (e.g., intermittent connectivity) by embodying the core principles of 'progressive enhancement'. PWAs also help web developers craft applications that are more comparable to their native counterparts, making them easier (and more familiar) to consume by mobile users.
+
+### Partners and Sponsors
+
+* Google Developer Group: New York
+* Pluralsight
+* JetBrains
+* General Assembly
