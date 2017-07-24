@@ -19,4 +19,6 @@ PWA Camp 2017 is structured in three stages to provide a 360-degree view of the 
 * Google Developer Group: New York
 * Pluralsight
 * JetBrains
+* O'Reilly
+* Manning
 * General Assembly
